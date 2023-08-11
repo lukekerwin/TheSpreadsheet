@@ -9,3 +9,12 @@ I played hockey my whole life and in 2020 when the pandemic hit, I found a Xbox 
 Fast forward ~3 years and what started as a simple Google spreadsheet has turned into a full blown website with over 500 monthly users. The Spreadsheet is a website that allows users to deeper analyze their performance in the virtual hockey league. I have created my own Wins Above Replacement models completely from scratch, as well as a variety of other metrics that I believe are better indicators of performance than the traditional stats. I have also created a variety of visualizations that allow users to compare themselves to other players in the league.
 
 The Spreadsheet has quickly become a recognizable brand amoung the community and I am very proud of what I have created. I have learned more about data science and analytics from this project than I could have ever imagined. I have also learned a lot about how to run a business (as I migrated to monthly subscriptions in early 2023). I am excited to see where this project goes in the future.
+
+# Components
+
+|Process  | Language/Program |Notes|
+|--|--|--|
+|Code|Python|I use VS Code|
+|REST API|Python|Mix of Flask and SQL Alchemy|
+|Database|MySQL|Hosted locally|
+|Dashboards|Tableau|Uses MySQL connector|
