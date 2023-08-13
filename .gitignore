@@ -1,0 +1,11 @@
+# Ignore pycache
+__pycache__/
+
+# Ignore Api credentials
+api/api_credentials.py
+
+# Ignore admin credentials
+src/classes/admin.py
+
+# Ignore DB Models
+api/orm_models.py
