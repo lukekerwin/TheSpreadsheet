@@ -11,4 +11,4 @@ src/classes/admin.py
 api/orm_models.py
 
 # Ignore WAR Models
-src/classes/war.py
+src/classes/wars.py

@@ -3,7 +3,7 @@ from src.classes.league import League
 from src.classes.season import Season
 from src.classes.game import Game
 from src.classes.sos import getsos
-from src.classes.war import generate_wars
+from src.classes.wars import generate_wars
 from src.classes.rosters import getRosters
 from concurrent.futures import ThreadPoolExecutor
 
