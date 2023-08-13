@@ -9,3 +9,6 @@ src/classes/admin.py
 
 # Ignore DB Models
 api/orm_models.py
+
+# Ignore WAR Models
+src/classes/war.py
