@@ -12,3 +12,6 @@ api/orm_models.py
 
 # Ignore WAR Models
 src/classes/wars.py
+
+# DS_Store
+.DS_Store
