@@ -20,3 +20,12 @@ The Spreadsheet has quickly become a recognizable brand among the community and 
 |REST API|Python|Mix of Flask and SQL Alchemy|
 |Database|MySQL|Hosted locally|
 |Dashboards|Tableau|Uses MySQL connector|
+
+# Hidden Files
+
+There are a few hidden files that are not included in this repository. These files are necessary for the code to run. They are:
+
+ - `api_credentials.py` - This file contains the credentials for the REST API. It is not included in this repository for security reasons.
+ - `orm_models.py` - This file contains the ORM models for the database. It is not included in this repository for security reasons.
+ - `admin.py` - This file contains the admin credentials for the website. It is not included in this repository for security reasons.
+ - `wars.py` - This file contains the WAR model I made myself. It is not included in this repository for security reasons.
